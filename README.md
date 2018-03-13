@@ -19,5 +19,6 @@ https://pythonforbiologists.com/introduction/
     a. Creat a README file for each project using markdown.
     b. Learn about commenting python scripts.
     c. Learn about GitHub.
-    d. Learn the basics of an IDE (Start with IDLE and move to PyCharm or Anaconda)
+      http://try.github.io/
+    d. Learn the basics of an IDE (Start with IDLE and move to PyCharm or Anaconda)
     e. Create a list of useful websites/resources/forums.
