@@ -1,1 +1,1 @@
-# Teach show how to type
+# Teach Xiao how to type
