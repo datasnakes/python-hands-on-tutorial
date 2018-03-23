@@ -10,8 +10,9 @@ The tutorial will introduce students to a variety of computational tools for sol
 
  - Demonstrate an understanding of basic Python 3 by writing simple program scripts using language constructs, including - but not limited to variable creation and assignment, basic string-manipulation operations, 
  - Demonstrate the ability to debug programs written in Python 3 by identifying errors and fixing them.
+ - Demonstrate the ability use markdown to create a README file for each project.
 
-## Require Resources
+## Required Resources
 
  - IDE for python programming ([Anaconda's Spyder IDE]() or IDLE is suggested.)
  - Python 3.6
@@ -23,9 +24,9 @@ The tutorial will introduce students to a variety of computational tools for sol
 
 This tutorial exercies will be loosely adhered to.
 
-| Exercise  |   Topic                                         | Reading/Assignment    |
-|-----------|-------------------------------------------------|-----------------------|
-| 1         |Getting started with Python & Project Management |                       |
+| Exercise  |   Topic                                         | Reading/Assignment    | Objectives                                                                               |
+|-----------|-------------------------------------------------|-----------------------|------------------------------------------------------------------------------------------|
+| 1         |Getting started with Python & Project Management |                       | learning markdown for readmes, learning about git and github, learn the basics of an IDE |
 | 2         |Python Syntax & Basics                           |                       |
 | 3         |Data Structures & Statements                     |                       |
 | 4         |Importing & Manipulating Data                    |                       |
@@ -34,3 +35,10 @@ This tutorial exercies will be loosely adhered to.
 | 7         |Writing a Class in Python                        |                       |
 | 8         |Writing a simple command line tool               |                       |
 | 9         |Unix/Linux Commandline Basics                    |                       |
+
+
+### My First Project
+
+1. Brainstorming - What do I want to accomplish?
+2. Strategizing - What's the best way to reach my goal(s)?
+3. Outlining - Create a framework with comments.
