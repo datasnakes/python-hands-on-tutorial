@@ -26,7 +26,7 @@ This tutorial exercies will be loosely adhered to.
 
 | Exercise  |   Topic                                         | Reading/Assignment    | Objectives                                                                               |
 |-----------|-------------------------------------------------|-----------------------|------------------------------------------------------------------------------------------|
-| 1         |Getting started with Python & Project Management |                       | learning markdown for readmes, learning about git and github, learn the basics of an IDE |
+| 1         |[Getting started with Python & Project Management](https://github.com/datasnakes/python-hands-on-tutorial/tree/master/exercise_1) |                       | learning markdown for readmes, learning about git and github, learn the basics of an IDE |
 | 2         |Python Syntax & Basics                           |                       |
 | 3         |Data Structures & Statements                     |                       |
 | 4         |Importing & Manipulating Data                    |                       |
