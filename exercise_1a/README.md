@@ -1,4 +1,4 @@
-# exercise 1
+# Exercise 1a - Getting started with Python & Project Management Part 1
 
 ## Objectives
 
@@ -16,4 +16,4 @@
 
 ***
 
-[Previous](../exercise_0/README.md) | [Next](../exercise_2/README.md) | [List of contents](../README.md#exercises)
+[Previous](../exercise_0/README.md) | [Next](../exercise_1b/README.md) | [List of contents](../README.md#exercises)

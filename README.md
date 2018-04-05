@@ -27,8 +27,9 @@ This tutorial exercies will be loosely adhered to.
 
 | Exercise  |   Topic                                         | Reading/Assignment    | Objectives                                                                               |
 |-----------|-------------------------------------------------|-----------------------|------------------------------------------------------------------------------------------|
-| 0         |Learning to Type           |[Online Typing Lessons](http://www.typing.com/student/join#5ABEBE34EBE0B) |
-| 1         |[Getting started with Python & Project Management](https://github.com/datasnakes/python-hands-on-tutorial/tree/master/exercise_1) |                       | learning markdown for readmes, learning about git and github, learn the basics of an IDE |
+| 0         |Learning to Type           |[Online Typing Lessons](http://www.typing.com/student/join#5ABEBE34EBE0B)| improve typing in order to improve coding effciency |
+| 1a         |[Getting started with Python & Project Management Part 1](https://github.com/datasnakes/python-hands-on-tutorial/tree/master/exercise_1) |                       | learning markdown for readmes, learning about git and github|
+| 1b         |[Getting started with Python & Project Management Part 2](https://github.com/datasnakes/python-hands-on-tutorial/tree/master/exercise_2) |                       | learn the basics of an IDE, learn to install python packages |
 | 2         |Python Syntax & Basics                           |                       |
 | 3         |Data Structures & Statements                     |                       |
 | 4         |Importing & Manipulating Data                    |                       |

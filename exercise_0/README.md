@@ -1,8 +1,8 @@
-# exercise 0
+# Exercise 0 - Learning to Type
 
 ## Objectives
 
-- Improve typing  to improve coding effciency
+- Improve typing in order to improve coding effciency
 
 ## Practice
 
@@ -14,4 +14,4 @@ So to start, we will begin learning python by simply learning to type efficientl
 
 ***
 
-[Next](../exercise_1/README.md) | [List of contents](../README.md)
+[Next](../exercise_1a/README.md) | [List of contents](../README.md)

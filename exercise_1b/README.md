@@ -1,4 +1,4 @@
-# exercise 2
+# Exercise 1b - Getting started with Python & Project Management Part 2
 
 ## Objectives
 
@@ -10,9 +10,10 @@
 
 ## Practice
 
-- Document (link to) which IDE you installed in a `README.md` file in the `exercise_2` directory of your `learning-python` repository
+- Document (link to) which IDE you installed in a `README.md` file in a `exercise_1b` directory of your `learning-python` repository
+- Rename your `exercise_1` folder to `exercise_1a` on github.
 - Install and/or updgrade the [`pandas`](https://pandas.pydata.org/pandas-docs/stable/install.html#installing-from-pypi) package with pip and document how you did so in the README.md mentioned above.
 
 ***
 
-[Previous](../exercise_1/README.md) | [Next](../exercise_3/README.md) | [List of contents](../README.md#exercises)
+[Previous](../exercise_1a/README.md) | [Next](../exercise_2/README.md) | [List of contents](../README.md#exercises)
