@@ -8,6 +8,7 @@ The tutorial will introduce students to a variety of computational tools for sol
 
 ## Tutorial Objectives
 
+ - Demonstrate improved typing skills.
  - Demonstrate an understanding of basic Python 3 by writing simple program scripts using language constructs, including - but not limited to variable creation and assignment, basic string-manipulation operations, 
  - Demonstrate the ability to debug programs written in Python 3 by identifying errors and fixing them.
  - Demonstrate the ability use markdown to create a README file for each project.
@@ -26,6 +27,7 @@ This tutorial exercies will be loosely adhered to.
 
 | Exercise  |   Topic                                         | Reading/Assignment    | Objectives                                                                               |
 |-----------|-------------------------------------------------|-----------------------|------------------------------------------------------------------------------------------|
+| 0         |Learning to Type           |[Online Typing Lessons](http://www.typing.com/student/join#5ABEBE34EBE0B) |
 | 1         |[Getting started with Python & Project Management](https://github.com/datasnakes/python-hands-on-tutorial/tree/master/exercise_1) |                       | learning markdown for readmes, learning about git and github, learn the basics of an IDE |
 | 2         |Python Syntax & Basics                           |                       |
 | 3         |Data Structures & Statements                     |                       |
