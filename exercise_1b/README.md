@@ -16,4 +16,4 @@
 
 ***
 
-[Previous](../exercise_1a/README.md) | [Next](../exercise_2/README.md) | [List of contents](../README.md#exercises)
+[Previous](../exercise_1a/README.md) | [Next](../exercise_1c/README.md) | [List of contents](../README.md#exercises)
