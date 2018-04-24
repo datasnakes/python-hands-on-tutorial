@@ -15,7 +15,7 @@ The tutorial will introduce students to a variety of computational tools for sol
 
 ## Required Resources
 
- - IDE for python programming ([Anaconda's Spyder IDE]() or IDLE is suggested.)
+ - IDE for python programming ([Anaconda's Spyder IDE](https://anaconda.org/anaconda/spyder), IDLE, or [Atom](https://atom.io/) is suggested.)
  - Python 3.6
  - [Bioinformatics Data Skills](https://github.com/datasnakes/python-hands-on-tutorial/blob/master/resources/bioinformatics_data_skills.pdf)
  - [Python for Biologists](https://github.com/datasnakes/python-hands-on-tutorial/blob/master/resources/python_for_biologists.pdf)
@@ -27,10 +27,10 @@ This tutorial exercies will be loosely adhered to.
 
 | Exercise  |   Topic                                         | Reading/Assignment    | Objectives                                                                               |
 |-----------|-------------------------------------------------|-----------------------|------------------------------------------------------------------------------------------|
-| 0         |Learning to Type           |[Online Typing Lessons](http://www.typing.com/student/join#5ABEBE34EBE0B)| improve typing in order to improve coding effciency |
+| 0         |[Learning to Type](https://github.com/datasnakes/python-hands-on-tutorial/tree/master/exercise_0)         |[Online Typing Lessons](http://www.typing.com/student/join#5ABEBE34EBE0B)| improve typing in order to improve coding effciency |
 | 1a         |[Getting started with Python & Project Management Part 1](https://github.com/datasnakes/python-hands-on-tutorial/tree/master/exercise_1a) |                       | learn markdown for readmes, learn about git and github|
 | 1b         |[Getting started with Python & Project Management Part 2](https://github.com/datasnakes/python-hands-on-tutorial/tree/master/exercise_1b) |                       | learn the basics of an IDE, learn to install python packages |
-| 1c        |Underdanding Python Using R and RStudio          |                       | learn how Python works by doing similar tasks with R |
+| 1c        |[Underdanding Python Using R and RStudio](https://github.com/datasnakes/python-hands-on-tutorial/tree/master/exercise_1c)          |                       | learn how Python works by doing similar tasks with R |
 | 2         |Python Syntax & Basics                           |                       |
 | 3         |Data Structures & Statements                     |                       |
 | 4         |Importing & Manipulating Data                    |                       |
