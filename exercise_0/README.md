@@ -12,6 +12,8 @@ Typing is important for coding effectively.  As (python) programmer, half of you
 
 So to start, we will begin learning python by simply learning to type efficiently.  Typing.com has an appealing interface (and it's free).  The link above will take you to a classroom that has been set up.  This is a self learning exercise, but you can ask questions if you need to.  I would advise doing the `Beginner`, `Intermediate`, and `Advanced` all the way through twice :smile:.
 
+Take a [free typing test](https://www.keyhero.com/free-typing-test/) every 2 weeks.
+
 ***
 
 [Next](../exercise_1a/README.md) | [List of contents](../README.md)
