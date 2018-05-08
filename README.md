@@ -23,7 +23,7 @@ The tutorial will introduce students to a variety of computational tools for sol
 
 ## Exercises
 
-This tutorial exercies will be loosely adhered to.
+These tutorial exercies will be loosely adhered to.
 
 | Exercise | Topic                                                                                                                                     | Reading/Assignment                                                        | Objectives                                                   |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------ |
@@ -40,8 +40,8 @@ This tutorial exercies will be loosely adhered to.
 | 8        | Writing a simple command line tool                                                                                                        |                                                                           |                                                              |
 | 9        | Unix/Linux Commandline Basics                                                                                                             |                                                                           |                                                              |
 
-### My First Project
+### Helpful Python Links
 
-1.  Brainstorming - What do I want to accomplish?
-2.  Strategizing - What's the best way to reach my goal(s)?
-3.  Outlining - Create a framework with comments.
+- [Interactive Python Tutorial](https://snakify.org/lessons/print_input_numbers/)
+- [PyBites](https://pybit.es)
+- [A Whirlwind Tour of Python](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb)
